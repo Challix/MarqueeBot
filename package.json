@@ -1,0 +1,16 @@
+{
+  "name": "marqueebot",
+  "version": "1.0.0",
+  "description": "Combining Discord and Marquee API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Challix",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "got": "^11.7.0",
+    "simple-oauth2": "^3.4.0"
+  }
+}
